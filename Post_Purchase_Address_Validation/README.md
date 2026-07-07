@@ -77,32 +77,6 @@ Manual Review     Warehouse API
 
 ---
 
-## Repository Structure
-
-```
-Post_Purchase_Address_Validation/
-│
-├── workflow/
-│   └── Post-Purchase Address Validation.json
-│
-├── database/
-│   ├── orders.sql
-│   └── address_validation_log.sql
-│
-├── dashboard/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-├── docs/
-│   └── DIY_Guide.md
-│
-├── images/
-│
-└── README.md
-```
-
----
 
 ## Dashboard
 
